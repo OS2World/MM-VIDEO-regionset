@@ -1,0 +1,7 @@
+NAME        wvkgen        WINDOWCOMPAT
+
+DESCRIPTION 'WarpVision Key Generator'
+
+STACKSIZE   65535
+
+PROTMODE
